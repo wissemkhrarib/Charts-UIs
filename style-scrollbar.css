@@ -1,0 +1,6 @@
+
+::-webkit-scrollbar {
+    background:linear-gradient(transparent,rgb(0, 4, 255));
+    width:9px;
+    padding: 3px;
+}
